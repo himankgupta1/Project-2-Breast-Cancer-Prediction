@@ -57,11 +57,11 @@ pip install seaborn
 ## Installation
 1. Clone the repository:
 ```
-git clone https://github.com/himankgupta1/breast-cancer-prediction.git
+https://github.com/himankgupta1/Project-2-Breast-Cancer-Prediction.git
 ```
 2. Navigate to the project directory:
 ```
-cd breast-cancer-prediction
+cd Project-2-Breast-Cancer-Prediction.git
 ```
 3. Install the required libraries
 
