@@ -1,5 +1,5 @@
 ![nexus_software_pvt_ltd_cover](https://github.com/Shreyaprasad21/Project-3-AI-ML-Series-Multiple-Disease-Detection-system/assets/142075353/1e542e0d-2db0-41cb-99b7-d8f61c9da7cb)
-# Project 1 - Breast Cancer Prediction
+# Project 2 - Breast Cancer Prediction
 
 This project was completed as part of an internship program at Nexus Info. The internship was conducted remotely. The objective of this project is to analyze and predict breast cancer using machine learning techniques. The dataset and associated files are used to build and evaluate models that can accurately diagnose breast cancer based on various medical parameters.
 
