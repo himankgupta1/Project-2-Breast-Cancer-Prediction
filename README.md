@@ -61,7 +61,7 @@ https://github.com/himankgupta1/Project-2-Breast-Cancer-Prediction.git
 ```
 2. Navigate to the project directory:
 ```
-cd Project-2-Breast-Cancer-Prediction.git
+cd Project-2-Breast-Cancer-Prediction
 ```
 3. Install the required libraries
 
